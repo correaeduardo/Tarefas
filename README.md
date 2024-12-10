@@ -1,5 +1,5 @@
 
-# Frontend Project
+# Frontend
 
 Este é um projeto frontend criado com React. O objetivo de criar uma Agenda de Tarefas.
 
